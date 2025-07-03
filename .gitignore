@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Banco de dados SQLite
+# (É um arquivo gerado, não deve ser versionado)
+escola.db
+*.sqlite3
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
